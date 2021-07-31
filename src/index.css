@@ -1,0 +1,176 @@
+*{
+  font-family: Arial, Helvetica, sans-serif !important;
+
+}
+body{
+  background-color: #f1efef !important;
+  margin: 0px !important;
+}
+
+.create-user-anchor{
+  color: white !important;
+  text-decoration: none !important;
+
+}
+
+.archimydes-navbar{
+
+  background-color: white;
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-bottom: 15px;
+
+}
+
+.archimydes-header{
+ font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+
+}
+
+/* homepage css */
+
+.data-container{
+
+  max-width: 700px;
+  margin: auto;
+  padding-top: 50px;
+
+}
+
+
+
+.user-container{
+
+}
+
+.users-heading{
+
+  display: inline-block;
+  font-size: 15px;
+  color: #35373a;
+
+}
+
+.create-user{
+
+  float: right;
+  background-color: #00b8c5;
+  border: none;
+  border-radius: 4px;
+  padding: 4px 6px;
+  font-size: 8px;
+  color: #f0eaea;
+}
+
+.arrow-icon{
+  margin-left: 5px;
+}
+
+.table-header{
+
+  color: grey;
+  padding-left: 15px !important;
+  padding-bottom: 16px !important;
+  padding-top: 11px !important;
+  font-size: 10px;
+ font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.table-container{
+  margin-top: 15px;
+
+}
+
+.table-content{
+  padding: 11px 16px !important;
+  font-weight: 600;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.bin-icon{
+  color: #929292;
+}
+
+.bin-icon:hover{
+  color: red;
+  cursor: pointer;
+}
+
+.user-table{
+  margin: auto;
+  border: 1px;
+  column-gap: 40px;
+}
+
+/* create user form css */
+
+.user-form-container{
+  max-width: 400px;
+  margin: auto;
+  padding-top: 50px;
+
+}
+
+.left-arrow-icon{
+
+  margin-right: 10px;
+
+}
+
+.create-user-heading, .update-user-heading{
+  font-size: 15px;
+  color: #35373a;
+  font-weight: 600;
+}
+
+.form-container{
+  background-color: white;
+  padding: 20px 15px;
+  margin-top: 15px;
+}
+
+.cancel-btn{
+  background-color: white;
+  border: none;
+  text-align: center;
+  font-size: 12px;
+  margin-top: 30px;
+  cursor: pointer;
+  margin-bottom: 0px;
+
+}
+
+.cancel-anchor,.update-anchor{
+  color: #222222 !important;
+  text-decoration: none !important;
+  cursor: pointer;
+}
+
+.create-button,.update-button{
+  margin-top: 15px;
+  background-color: #00b8c5;
+  width: 100%;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 5px;
+}
+
+.user-input{
+  padding: 8px !important;
+  height: unset !important;
+  border-radius: 5px !important;
+  margin-top: 5px !important;
+}
+
+.form-group{
+  margin-bottom: 15px !important;
+}
+
+
+
